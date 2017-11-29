@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "239281460156",
+    "firebase_url": "https://cloudhead-70b0a.firebaseio.com",
+    "project_id": "cloudhead-70b0a",
+    "storage_bucket": "cloudhead-70b0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239281460156:android:1f1384514c0bf978",
+        "android_client_info": {
+          "package_name": "nick.pierre.cloudhead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239281460156-hfd7sturj3sl6nsean8jthsg79nd569b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nick.pierre.cloudhead",
+            "certificate_hash": "60bf89b8d54a4b90b7e0a273fe924ae24ebecb13"
+          }
+        },
+        {
+          "client_id": "239281460156-d7it5hi1hcn46qldu06fhip3j19o2g93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBcixynQnk5yA1Rc7x1IMr_XkLrEuKDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239281460156-d7it5hi1hcn46qldu06fhip3j19o2g93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
